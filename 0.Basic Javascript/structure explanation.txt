@@ -1,0 +1,7 @@
+For this project, we will need html file and js(javascript) file.
+Javascript is language mostly used for web devs.
+To run javascript we would need a webpage, or a html file.
+
+Sample html file is included in here. We don't have to know so much about html, because we are just going to run game.js, but if you want to take a look, you can do so.
+
+game.js is javascript file, and we will be mostly focusing on this.
